@@ -5,3 +5,5 @@
 
 
 原理：[Tutorial: Making annoying rainbows and other color cycles in Javascript](https://krazydad.com/tutorials/makecolors.php)
+
+参考：[http://evanyou.me/](http://evanyou.me/)
