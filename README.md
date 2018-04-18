@@ -1,4 +1,5 @@
-# 基于 Canvas blog
+# 基于 [Canvas blog](http://baby925.top/andyBlog/)
+
 ```
 (r, g, b) 为 (cos(x), cos(x+PI/3), cos(x+PI/6))
 ```
